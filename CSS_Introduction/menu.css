@@ -1,0 +1,21 @@
+body{
+    font-family:'Lucida Sans';
+    background:burlywood;
+    font-size: 16px;
+}
+label{
+    font-family:Verdana;
+    font-size:18px;
+}
+select{
+    font-family:Verdana;
+    font-size:18px;
+    background:rgb(140, 171, 200);
+}
+.dropdown{
+    display:inline-block;
+    position:relative;
+    overflow:auto;
+    width: 30%;
+    background:rgb(215, 186, 150);
+}

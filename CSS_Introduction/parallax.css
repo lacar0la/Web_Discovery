@@ -1,0 +1,30 @@
+section {
+    position: relative;
+    height: 100vh;
+    width: 100% background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image-1 {
+    background-image: url(https://album.mediaset.es/eimg/2023/05/09/malagadir-una-california-europea-entre-rota-y-malaga_d5d3.jpg?w=1200);
+}
+
+.image-2 {
+    background-image: url(https://www.viajeroscallejeros.com/wp-content/uploads/2020/01/vistas-cerro-de-monserrate.jpg);
+}
+.titulo{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.titulo_2{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+
