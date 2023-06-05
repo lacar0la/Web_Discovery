@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+Button{
+
+    font-weight: 600;
+    font-size: 20px;
+    color:#ffffff;
+    height: 100;
+    width: 200;
+    background-color:#f2595e;
+    border-color: #F69DA1;
+    border-width: 3px;
+    border-style: solid;
+}

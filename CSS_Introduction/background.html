@@ -1,0 +1,43 @@
+<html>
+<head>
+    <link href="background.css" rel="stylesheet" type="text/css">
+</head>
+<body id="bground" bgcolor="pink">    
+<button id= "boton" onclick= "changebgcolor();">Click me!</button>
+<script>
+function all(){
+    changebgcolor();
+
+}
+
+function changebgcolor()
+    {
+        document.body.style.background = randomly();
+    }
+function randomly(){
+    let letters="0123456789ABCDEF".split('');
+    let color="#";
+    for (var i =0; i < 6; i++){
+        color += letters[Math.floor(Math.random()*16)];
+    }
+    return color;
+    }
+function changesize()
+{
+    document.button.style.height = newheight();
+    document.button.style.width = newwidth();
+}
+function newheight(){
+    let nheight = "100";
+    nheight += "50";
+    return nheight;
+}
+function newwidth(){
+    let nwidth = "200";
+    nwidth += "50";
+    return nwidth;
+}
+</script>
+    
+</body>
+</html>
