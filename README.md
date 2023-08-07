@@ -6,4 +6,4 @@ This is a very short and intensive program (5 days) where the peer to peer metho
 
 The pressent repository have the work made in a week of a discovery course.
 
-![instalaciones del campus](https://pbs.twimg.com/media/FvrhpwfXgAMUH4W?format=jpg&name=large)
+<img src ="https://pbs.twimg.com/media/FvrhpwfXgAMUH4W?format=jpg&name=large" width="400" height="500" >
